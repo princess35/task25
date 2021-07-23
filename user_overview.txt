@@ -1,0 +1,5 @@
+User details 0
+The total number of tasks that have been generated and tracked using the task_manager.py are 4
+The total number of tasks assigned to the user 4The percentage of the total number of tasks that have been assigned to the user 100.0The percentage of the tasks that have assigned to the user that have been completed0.0The percentage of the tasks assigned to the user that must still be completed 0.0The percentage of the tasks assigned to the user that have not been completed and are overdue 1, 0User details 0
+The total number of tasks that have been generated and tracked using the task_manager.py are 4
+The total number of tasks assigned to the user 4The percentage of the total number of tasks that have been assigned to the user 100.0The percentage of the tasks that have assigned to the user that have been completed0.0The percentage of the tasks assigned to the user that must still be completed 0.0The percentage of the tasks assigned to the user that have not been completed and are overdue 1, 0
